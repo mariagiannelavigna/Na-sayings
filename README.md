@@ -6,7 +6,7 @@ Progetto in fase di sviluppo per l'esame universitario in "Tecnologie Web" de "L
 **Per Lara**
 * Per entrare nel progetto e fare in modo che anche tu possa collaborare, devi aprire il terminale (o su PHP o uno qualsiasi) e copiare l'indirizzo del mio repository Github, che sarebbe:
 
-git clone https://github.com/mariagiannelavigna/Na-sayings.git)
+git clone https://github.com/mariagiannelavigna/Na-sayings.git
 
 * Dopo aver clonato, nel terminale devi scrivere:
 
